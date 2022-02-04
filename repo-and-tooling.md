@@ -4,12 +4,9 @@
 # Repo and Tooling
 
 ### [Server: Main Branch](https://github.com/diss-bot/server)
-### [Server: Dev Branch]()
 
-### [Clinet-Side: Main Branch](https://github.com/diss-bot/client-facing)
-### [Clinet-Side: Dev Branch]()
+### [Client-Side: Main Branch](https://github.com/diss-bot/client-facing)
 
 ### [Markdown Documentation](https://diss-bot.github.io/d-b-md/)
 
-## PM Tools:
-[Github Projects]()
+### PM Tools: [Github Projects](https://github.com/orgs/diss-bot/projects/1)
