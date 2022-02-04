@@ -9,19 +9,19 @@
 
 - **What are the key strengths of each person on the team?**
   * Daniel: works well with getting the ball rolling. Has a good understanding of code and the flow of data from various applications / APIs.
-  * Dario: 
+  * Dario: Communication, Leadership, Technical acumen 
   * Michael: Good understanding of socket.io and API's.
   * Steve: Good understanding of the material. Comedic relief.
 
 - **How can you best utilize these strengths in the execution of your project?**
   * Daniel: 
-  * Dario: 
+  * Dario: create a clear plan and workflow for project completion. a major goal will be educating team members in areas of weakness.
   * Michael: I will help connect the API's to the server and set realistic expectations.
   * Steve: I will keep my team from over extending themselves in the work and provide technical and emotional support.
 
 - **In which professional competencies do you each want to develop greater strength?**
   * Daniel: 
-  * Dario: 
+  * Dario: Organization and Time management
   * Michael: Improve communication and public speaking.
   * Steve: planning and time management.
 
@@ -53,7 +53,7 @@
 ## Communication Plan
 - **Hours?**
   * Daniel: I am free almost 24/7, and will respond to slack whenever there is something new
-  * Dario: 
+  * Dario: Free most of the day, best way to reach me is on discord as i dont check slack regularly
   * Michael: I am availible on Slack almost 24/7.
   * Steve: 24/7 - (714) 342 - 1919 - phone calls will be prioritized over messaging platforms
 
