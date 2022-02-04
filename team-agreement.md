@@ -1,6 +1,7 @@
-# [diss-bot](https://github.com/diss-bot)
+# [diss-bot](https://diss-bot.github.io/d-b-md/)
+> Code Fellows 401
 
-Code Fellows 401
+# Team Agreement
 
 ## Cooperation Plan
 
