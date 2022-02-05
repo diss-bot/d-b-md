@@ -2,7 +2,7 @@
 > Code Fellows 401
 
 # Wireframe
-![WF will be inserted here]()
+![WF will be inserted here](img/WF.png)
 
 ## User Stories:
  - **User 1**: 
