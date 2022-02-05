@@ -25,7 +25,7 @@
   - Featured Task: 
   - Acceptance Test: 
 
-## [Software Requirements](https://diss-bot.github.io/d-b-md/requirements.md)
+## [Software Requirements](requirements.md)
 
 ## Domain Modeling
 ![DM will be inserted here]()
