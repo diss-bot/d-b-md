@@ -88,7 +88,7 @@
   * Github projects
 
 ## Presentation Deck
-[Slide deck will be inserted here]()
+[Diss Bot Slide Deck](https://docs.google.com/presentation/d/1nVARivWujXdpBV5G38G5z6sZzOa8WtgRj6j-udG9nnM/edit?usp=sharing)
 
 ## Git Process
 
